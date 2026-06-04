@@ -53,4 +53,4 @@ Before you can run the application, ensure you have the following installed on y
 Since the application requires root privileges to modify `iptables` rules, you must run it with `sudo`.
 
 ```bash
-sudo python3 interface.py
+sudo ./venv/bin/python3 interface.py
